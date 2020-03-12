@@ -13,8 +13,6 @@
 #### 2. [JavaScript-Web-API](https://github.com/LightSmileY/Web-front-end---Review/tree/master/02.%20JavaScript-Web-API)
 
 - [DOM-API](https://github.com/LightSmileY/Web-front-end---Review/blob/master/02.%20JavaScript-Web-API/1.%20DOM-API.md)
-
 - [BOM-API](https://github.com/LightSmileY/Web-front-end---Review/blob/master/02.%20JavaScript-Web-API/2.%20BOM-API.md)
-
 - [事件](https://github.com/LightSmileY/Web-front-end---Review/blob/master/02.%20JavaScript-Web-API/3.%20%E4%BA%8B%E4%BB%B6.md)
 
