@@ -2,7 +2,7 @@
 
 ### 目录
 
-#### 01. [JavaScript语言核心](https://github.com/LightSmileY/Web-front-end---Review/tree/master/01.%20JavaScript%20%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83)
+#### 1. [JavaScript语言核心](https://github.com/LightSmileY/Web-front-end---Review/tree/master/01.%20JavaScript%20%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83)
 
 1. [变量类型和计算](https://github.com/LightSmileY/Web-front-end---Review/blob/master/01.%20JavaScript%20%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83/1.%20%E5%8F%98%E9%87%8F%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%AE%A1%E7%AE%97.md)
 
@@ -14,7 +14,7 @@
 
 5. [Date-Math-Array-Object的核心API](https://github.com/LightSmileY/Web-front-end---Review/blob/master/01.%20JavaScript%20%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83/5.%20Date-Math-Array-Object%E7%9A%84%E6%A0%B8%E5%BF%83API.md)
 
-#### 02. [JavaScript-Web-API](https://github.com/LightSmileY/Web-front-end---Review/tree/master/02.%20JavaScript-Web-API)
+#### 2. [JavaScript-Web-API](https://github.com/LightSmileY/Web-front-end---Review/tree/master/02.%20JavaScript-Web-API)
 
 1. [DOM-API](https://github.com/LightSmileY/Web-front-end---Review/blob/master/02.%20JavaScript-Web-API/1.%20DOM-API.md)
 
