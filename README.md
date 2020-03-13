@@ -22,7 +22,7 @@
 
 - [IDE](https://github.com/LightSmileY/Web-front-end---Review/blob/master/03.%20JavaScript%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/1.%20IDE.md)
 - [分布式版本控制系统Git](https://github.com/LightSmileY/Web-front-end---Review/blob/master/03.%20JavaScript%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/2.%20%E5%88%86%E5%B8%83%E5%BC%8F%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9FGit.md)
-- 模块化
+- [模块化](https://github.com/LightSmileY/Web-front-end---Review/blob/master/03.%20JavaScript%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/3.%20%E6%A8%A1%E5%9D%97%E5%8C%96.md)
 - 构建工具
 - 上线回滚
 
