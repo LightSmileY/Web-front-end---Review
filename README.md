@@ -16,3 +16,6 @@
 - [BOM-API](https://github.com/LightSmileY/Web-front-end---Review/blob/master/02.%20JavaScript-Web-API/2.%20BOM-API.md)
 - [事件](https://github.com/LightSmileY/Web-front-end---Review/blob/master/02.%20JavaScript-Web-API/3.%20%E4%BA%8B%E4%BB%B6.md)
 
+- [Ajax 异步加载](https://github.com/LightSmileY/Web-front-end---Review/blob/master/02.%20JavaScript-Web-API/4.%20Ajax%20%E5%BC%82%E6%AD%A5%E5%8A%A0%E8%BD%BD.md)
+
+- [浏览器存储](https://github.com/LightSmileY/Web-front-end---Review/blob/master/02.%20JavaScript-Web-API/5.%20%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AD%98%E5%82%A8.md)
