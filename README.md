@@ -55,9 +55,10 @@
 - less核心
 - scss核心
 
-#### 7. ES6 语言核心
+#### 7. [ES6 语言核心](https://github.com/LightSmileY/Web-front-end---Review/tree/master/07.%20ES6%20%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83)
 
-- ES6 基础
+- [ES6基础1 (开发环境-变量声明-解构赋值-字符串模板引擎)](https://github.com/LightSmileY/Web-front-end---Review/blob/master/07.%20ES6%20%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83/1.%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83-%E5%8F%98%E9%87%8F%E5%A3%B0%E6%98%8E-%E8%A7%A3%E6%9E%84%E8%B5%8B%E5%80%BC-%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E.md)
+- ES6基础2 (箭头函数-扩展运算符-数组新方法-新数据结构)
 - ES6 模块化
 - Class 面向对象
 - Promise 异步处理
