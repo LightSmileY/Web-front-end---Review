@@ -63,7 +63,7 @@
 - [字符串模板引擎](https://github.com/LightSmileY/Web-front-end---Review/blob/master/07.%20ES6%20%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83/04.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E.md)
 - [箭头函数](https://github.com/LightSmileY/Web-front-end---Review/blob/master/07.%20ES6%20%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83/05.%20%E7%AE%AD%E5%A4%B4%E5%87%BD%E6%95%B0.md)
 - [扩展运算符与rest运算符](https://github.com/LightSmileY/Web-front-end---Review/blob/master/07.%20ES6%20%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83/06.%20%E6%89%A9%E5%B1%95%E8%BF%90%E7%AE%97%E7%AC%A6%E4%B8%8Erest%E8%BF%90%E7%AE%97%E7%AC%A6.md)
-- 数组新方法
+- [数组新方法](https://github.com/LightSmileY/Web-front-end---Review/blob/master/07.%20ES6%20%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83/07.%20%E6%95%B0%E7%BB%84%E6%96%B0%E6%96%B9%E6%B3%95.md)
 - 新数据结构
 - ES6 模块化
 - Class 面向对象
