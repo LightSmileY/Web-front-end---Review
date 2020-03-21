@@ -69,10 +69,10 @@
 - [Class 面向对象](https://github.com/LightSmileY/Web-front-end---Review/blob/master/07.%20ES6%20%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83/10.%20Class%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
 - [Promise 异步处理](https://github.com/LightSmileY/Web-front-end---Review/blob/master/07.%20ES6%20%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83/11.%20Promise%20%E5%BC%82%E6%AD%A5%E5%A4%84%E7%90%86.md)
 
-#### 8. JavaScript 数据结构与算法
+#### 8. [JavaScript 数据结构与算法](https://github.com/LightSmileY/Web-front-end---Review/tree/master/08.%20JavaScript%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
 
-- 基础算法 - 字符串类
-- 基础算法 - 数组类
+- [基础算法 - 字符串类](https://github.com/LightSmileY/Web-front-end---Review/blob/master/08.%20JavaScript%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/01.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%20-%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%B1%BB.md)
+- [基础算法 - 数组类](https://github.com/LightSmileY/Web-front-end---Review/blob/master/08.%20JavaScript%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/02.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%20-%20%E6%95%B0%E7%BB%84%E7%B1%BB.md)
 - 基础算法 - 正则表达式类
 - 基础算法 - 排序类
 - 基础算法 - 递归类
